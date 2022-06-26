@@ -14,6 +14,8 @@
 
     <br><br><br>
     <div class="container">
+        <h1 class="text-center">Diagnosa Penyakit Jantung</h1>
+        <br>
         <form action="diagnosa.php" method="post">
         <table class="table table-dark table-hover table-bordered border border-danger ">
             <tr>

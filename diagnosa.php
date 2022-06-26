@@ -11,8 +11,6 @@ if(isset($_POST['cek'])){
         $jml += $n;
     }
 
-
-
     if($jml == 100){
         echo "Jantung Koroner $jml% <br>";
         echo "Sebaiknya Anda Bunuh Diri Saja! <br>Eits! Jangan marah ini hanya sekedar saran";
@@ -29,6 +27,8 @@ if(isset($_POST['cek'])){
         echo "Jantung Koroner $jml% <br>";
         echo "Tenang, Bro! Anda Sedang baik-baik saja";
     }
+}else{
+    echo "Anda belum memilih boss!";
 }
 
 ?>

@@ -25,7 +25,7 @@
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
             <img class="rounded-circle" src="https://png.pngtree.com/element_our/png_detail/20181122/background-of-cartoon-doctor-characters-png_234076.jpg" alt="" width="30" height="30" class="d-inline-block align-text-top">
-            Konsultasi Abang Gila
+            Heart Consultation
             </a>
             <ul class="nav nav-pills">
                 <li class="nav-item">
